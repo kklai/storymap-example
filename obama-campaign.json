@@ -1,0 +1,118 @@
+{
+    "storymap": {
+        "slides": [{
+            "type": "overview",
+            "date": "November 5, 2012",
+            "text": {
+                "headline": "Follow Barack Obama on the last five days of 2012 Campaign Trial",
+                "text": "The last couple big stops during the last weekend of the election campaign."
+            },
+            "media": {
+                    "url": "http://secure.assets.bostatic.com/resize/20121104_potus_concord_nh_tm_-14-20121105043343.jpg",
+                    "credit":               "barakobama.com"
+                }
+        }, {
+            "date": "November 1, 2012",
+            "text": {
+                "headline": "Today in Wisconsin",
+                "text": "The protectors of the status quo are a powerful force in Washington. And over the last four years, every time we’ve tried to make a change, they’ve fought back with everything they’ve got. They spent millions to stop us from reforming health care and Wall Street and student loans. And their strategy from the start was to engineer pure gridlock in Congress, refusing to compromise on ideas that both Democrats and Republicans had supported in the past."
+            },
+            "location": {
+                "name": "Wisconsin",
+                "lat": 44.5000,
+                "lon": -89.5000,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url": "http://secure.assets.bostatic.com/resize/green-bay-20121101195950.jpeg",
+                    "credit": "barackobama.com"
+                }
+        },{
+            "date": "November 2, 2012",
+            "text": {
+                "headline": "President Obama in Ohio: 'In four days'",
+                "text": "Now, Ohio, in four days, you have a choice to make—and, by the way, I think you may have noticed that everybody is paying a lot of attention to Ohio. And rightfully so. This is a choice not just between two candidates or two parties. It’s a choice between two fundamentally different visions of America. It’s a choice between going back to the top-down policies that crashed our economy, or adapting the kinds of policies that will make sure we’ve got a strong and growing middle class. That’s the choice."
+            },
+            "location": {
+                "name": "Howard County, Maryland",
+                "lat": 40.5000,
+                "lon": -82.5000,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url": "http://secure.assets.bostatic.com/resize/lima-20121103021401.jpg",
+                    "credit":               "barackobama.com"
+                }
+        }, {
+            "date": "November 4, 2012",
+            "text": {
+                "headline": "Bristow Rallies For President Obama",
+                "text": "Just two days before Election Day, more than 24,000 enthusiastic supporters gathered in Bristow to listen to President Obama and President Bill Clinton."
+            },
+            "location": {
+                "name": "Bristow",
+                "lat": 38.7228,
+                "lon": -77.5361,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url": "http://farm9.staticflickr.com/8069/8156268567_fbf5af5da8_o.jpg",
+                    "credit": "barackobama.com"
+                }
+        }, {
+            "date": "November 4, 2012",
+            "text": {
+                "headline": "&quot;They need a champion&quot;",
+                "text": "As part of the final push two days out from Election Day, President Obama made a three-state swing, speaking to thousands of supporters in New Hampshire, Florida, and Ohio. The day began this morning with the largest campaign event in New Hampshire state history."
+            },
+            "location": {
+                "name": "New Hampshire",
+                "lat": 44.0000,
+                "lon": -71.5000,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url": "http://secure.assets.bostatic.com/resize/20121104_potus_concord_nh_tm_-17-20121105043357.jpg",
+                    "credit": "barackobama.com"
+                }
+        }, {
+            "date": "November 5, 2012",
+            "text": {
+                "headline": "The last event",
+                "text": "Watch President Obama, the First Lady, and Bruce Springsteen live from Des Moines, Iowa, tonight at 10:30 p.m. ET. We'll be streaming the last grassroots event of the President's last campaign at barackobama.com/live—don't miss it."
+            },
+            "location": {
+                "name": "",
+                "lat": 42.0000,
+                "lon": -93.0000,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url": "http://secure.assets.bostatic.com/Blog/20121105_potus.jpg",
+                    "credit": "barackobama.com"
+                }
+        }, {
+            "date": "November 7, 2012",
+            "text": {
+                "headline": "Election Night",
+                "text": "President Barack Obama at the election night party at McCormick Place in Chicago, on November 7, 2012. Obama defeated Republican challenger former Massachusetts Governor Mitt Romney in both the electoral vote and the popular vote. "
+            },
+            "location": {
+                "name": "",
+                "lat": 41.8819,
+                "lon": -87.6278,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url": "http://www.youtube.com/watch?v=Wk17f6_4iW8",
+                    "credit": "barackobama.com"
+                }
+        }   
+    ]}
+}
